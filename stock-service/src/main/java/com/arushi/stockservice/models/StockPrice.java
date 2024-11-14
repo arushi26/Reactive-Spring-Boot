@@ -1,4 +1,4 @@
-package com.arushi.stock_service.models;
+package com.arushi.stockservice.models;
 
 import java.time.LocalDateTime;
 

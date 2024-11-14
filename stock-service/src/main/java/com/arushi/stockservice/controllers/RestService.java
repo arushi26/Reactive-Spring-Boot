@@ -1,6 +1,6 @@
-package com.arushi.stock_service.controllers;
+package com.arushi.stockservice.controllers;
 
-import com.arushi.stock_service.models.StockPrice;
+import com.arushi.stockservice.models.StockPrice;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
